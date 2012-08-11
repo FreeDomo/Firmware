@@ -1,6 +1,8 @@
-OpenDomotica Firmware 
+FreeDomo Firmware 
 --------------------------
 
-This direct contains all the source code for firmware in OpenDomo's microcontroller
+This direct contains all the source code for firmware in FreeDomo's 
+microcontroller(s)
 
-All contents are licensed under OSHW or GPL-3 license, whichever suits you best
+All contents are licensed under OSHW or GPL-3 license, see "Docs" repository 
+for the exact license.
